@@ -768,12 +768,7 @@ Online_Shop/
 * **Dataset / دیتاست:** [UCI Machine Learning Repository — Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail), donated by Dr. Daqing Chen.
 * **Related paper / مقالهٔ مرتبط:** Chen, D., Sain, S. L., & Guo, K. (2012). *Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining.* Journal of Database Marketing & Customer Strategy Management.
 * **Method / روش:** CRISP-DM (Cross-Industry Standard Process for Data Mining).
-
-## 🤝 Contributing · مشارکت
-
-Issues and pull requests are welcome. Please keep every cleaning or modelling decision **documented and defensible**, and never let information from the future into the features.
-
-ایشو و پول‌ریکوئست استقبال می‌شود. لطفاً هر تصمیم پاک‌سازی یا مدل‌سازی را **مستند و قابل دفاع** بنویسید و هرگز اجازه ندهید اطلاعات آینده وارد ویژگی‌ها شود.
+.
 
 <div align="center">
 
